@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Study Quiz",
+  "description": "A highly interactive study quiz application with custom question categories, detailed progress visualizers, and an AI-powered custom quiz generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
